@@ -1,4 +1,31 @@
-<link
-rel="stylesheet"
-href="./css/styles.css"
-/>
+.All-About-Me {
+  background-color: rgb(143, 221, 195);
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(5, 5, 5);
+  font-style: italic;
+}
+.My-Portfolio {
+  background-color: #cbe1e7;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+ul {
+  max-width: 25%;
+  justify-content: center;
+  margin: auto;
+}
+div {
+  background-color: rgb(143, 221, 195);
+  border-width: 10%;
+  border-style: solid;
+  text-align: center;
+  color: rgb(16, 16, 61);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  cursor: crosshair;
+ }
+img {
+  width: 300px;
+  border: 15px solid black;
+  border-radius: 15px 50px 800px 5px;
+  box-shadow: 10px 10px 10px #999;
+}
